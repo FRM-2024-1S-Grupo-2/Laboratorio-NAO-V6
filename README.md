@@ -73,14 +73,14 @@ La visita al laboratorio de robótica fue una experiencia valiosa, proporcionand
 - Felipe: La experiencia fue muy interesante, ya que nunca había tenido la oportunidad de interactuar con robots humanoides como el NAO V6. Fue muy emocionante aprender a usar Choregraphe y ver cómo se pueden combinar los movimientos prediseñados para hacer tareas complejas
 
 ### Preguntas
-- ¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de
-la robótica?
-    Estudiar y trabajar con robots humanoides en el campo de la robótica es importante porque estos robots imitan la forma y los movimientos humanos, lo que facilita la interacción y colaboración con las personas. Los robots humanoides pueden ser utilizados en una variedad de aplicaciones, como asistencia en el hogar, terapia, educación y entretenimiento. Además, trabajar con robots humanoides permite a los investigadores y desarrolladores abordar desafíos complejos en áreas como la locomoción, la manipulación de objetos, el reconocimiento de voz y el procesamiento del lenguaje natural. Esto contribuye al avance de tecnologías que pueden ser aplicadas en otros tipos de robots y sistemas autónomos.
+- **¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de la robótica?**
+  <br>
+Estudiar y trabajar con robots humanoides en el campo de la robótica es importante porque estos robots imitan la forma y los movimientos humanos, lo que facilita la interacción y colaboración con las personas. Los robots humanoides pueden ser utilizados en una variedad de aplicaciones, como asistencia en el hogar, terapia, educación y entretenimiento. Además, trabajar con robots humanoides permite a los investigadores y desarrolladores abordar desafíos complejos en áreas como la locomoción, la manipulación de objetos, el reconocimiento de voz y el procesamiento del lenguaje natural. Esto contribuye al avance de tecnologías que pueden ser aplicadas en otros tipos de robots y sistemas autónomos.
 
 
-- ¿Qué características distintivas tienen los robots NAO que los hacen útiles para la
-enseñanza y la investigación?
-    Los robots NAO tienen varias características distintivas que los hacen especialmente útiles para la enseñanza y la investigación. Primero, su diseño modular y sus capacidades de movimiento avanzadas permiten a los estudiantes y a los investigadores experimentar con una amplia gama de tareas y escenarios. Además, NAO es altamente programable y puede ser controlado mediante varios lenguajes de programación, incluyendo Python y C++, lo que lo hace accesible para personas con diferentes niveles de experiencia en programación. Su software Choregraphe proporciona una interfaz intuitiva para crear y probar comportamientos del robot, facilitando el aprendizaje práctico. Finalmente, NAO está equipado con sensores avanzados, cámaras y micrófonos, permitiendo estudios y proyectos en áreas como la visión por computadora, la inteligencia artificial y la interacción hombre-robot.
+- **¿Qué características distintivas tienen los robots NAO que los hacen útiles para laenseñanza y la investigación?**
+ <br>
+Los robots NAO tienen varias características distintivas que los hacen especialmente útiles para la enseñanza y la investigación. Primero, su diseño modular y sus capacidades de movimiento avanzadas permiten a los estudiantes y a los investigadores experimentar con una amplia gama de tareas y escenarios. Además, NAO es altamente programable y puede ser controlado mediante varios lenguajes de programación, incluyendo Python y C++, lo que lo hace accesible para personas con diferentes niveles de experiencia en programación. Su software Choregraphe proporciona una interfaz intuitiva para crear y probar comportamientos del robot, facilitando el aprendizaje práctico. Finalmente, NAO está equipado con sensores avanzados, cámaras y micrófonos, permitiendo estudios y proyectos en áreas como la visión por computadora, la inteligencia artificial y la interacción hombre-robot.
 
 
 ### Referencias:
