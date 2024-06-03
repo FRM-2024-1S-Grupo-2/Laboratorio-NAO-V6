@@ -1,5 +1,8 @@
 # Laboratorio-NAO-V6
 Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Ochoa, Andres Felipe Zuleta Romero
+
+La idea de esta visita es 
+
 ## Especificaciones Técnicas
 - Altura: 58 cm
 - Peso: 5.6 kg
