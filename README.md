@@ -60,13 +60,13 @@ https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-NAO-V6/assets/82681128/664ecb
 
 ## Conclusión
 ### Experiencia
-
+La visita al laboratorio de robótica fue una experiencia valiosa, proporcionando un conocimiento práctico del robot NAO V6 y algunas de sus capacidades. Nosotros aprendimos sobre la configuración inicial, programación en diagrama de bloques por medio de coreoghapy, y uso de algunos sensores del robot, ademas de experimentar con las posbles poses que realizaba este al mover manualmente sus articulaciones, ademas de interactuar con colegas de otra universidad que no aportaron algo de su conocimiento en este tema.
 
 ### Opiniones personales
 
 - Daniel: Fue una salida muy interesante tener la posibilidad de poder trabajar con robots poco accesibles a nivel nacional, se me hizo una oportunidad única y de mucho aprendizaje. Pude entender con el uso de Choreographe el funcionamiento básico de los robots NAO y quedé con varias incógnitas y con muchas ganas de querer trabajar con estos robots a traves otras plataformas,es decir ¿que tan facil es su manejo a traves de ROS? ¿Existen limitacitaciones respecto al software? ¿El robot es viable para otro tipo de tareas?
 
-- Giovanni:
+- Giovanni: Para mi fue valioso tener un acercamiento con los robots caminadores, que presentan desafíos únicos en comparación con los robots con ruedas. Aprender que los robots NAO se pueden programar en diversos lenguajes, y no solo el que el fabricante nos da y en el que se realizo la practica. Tambien me intereso la flexibilidad en la programacion que debe tener el robot para realizar tareas complejas, como jugar un partido de fútbol, en competencias donde se debe pensar tanto grupal como individual.
 
 - Thomás: Me pareció una salida enriquecedora porque se tuvo la oportunidad de conocer un laboratorio de otra institución, era la primera vez que trabajaba con robots humanoides lo cual resultó muy interesante, adicional a ello los estudiantes de la universidad de la sabana fueron muy cordiales y en todo momento nos brindaron su acompañamiento para desarrollar la actividad de manera adecuada, teniendo precaución en la manipulación de los robots
 
