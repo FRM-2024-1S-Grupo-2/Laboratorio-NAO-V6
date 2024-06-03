@@ -1,7 +1,14 @@
 # Laboratorio-NAO-V6
 Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Ochoa, Andres Felipe Zuleta Romero
 
-La idea de esta visita es 
+La idea de esta visita fue poder trabajar con robots humanoides, en específico con el robot NAO V6, disponible en las Universidad de la Sabana en Chia.  
+
+## Descripción del laboratorio 
+El laboratorio de la Universidad de la Sabana es bastante amplio, con 4 mesas para trabajo, conectores en la parte superior. Cuando llegamos habia un modelo de robot NAO por mesa a los cuales se les estaba reinstalado su software original.Adicionalmente se nos mostró otro robot movil, mucho mas sencillo, como el que se ve en la siguiente foto: 
+
+
+
+Este robot no se programó, o intentó mover, ya que el objetivo de la visita fue programar el robot NAO V6
 
 ## Especificaciones Técnicas
 - Altura: 58 cm
