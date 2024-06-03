@@ -4,18 +4,24 @@ Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Oc
 La idea de esta visita fue poder trabajar con robots humanoides, en específico con el robot NAO V6, disponible en las Universidad de la Sabana en Chia.  
 
 ## Descripción del laboratorio 
-El laboratorio de la Universidad de la Sabana es bastante amplio, con 4 mesas para trabajo, conectores en la parte superior. Cuando llegamos habia un modelo de robot NAO por mesa a los cuales se les estaba reinstalado su software original.Adicionalmente se nos mostró otro robot movil, mucho mas sencillo, como el que se ve en la siguiente foto: 
+El laboratorio de la Universidad de la Sabana es bastante amplio, con 4 mesas para trabajo, conectores en la parte superior. Cuando llegamos habia un modelo de robot NAO por mesa a los cuales se les estaba reinstalado su software original.Se nos mostró otro robot movil, mucho mas sencillo, como el que se ve en la siguiente foto: 
 
 
+<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-NAO-V6/blob/main/Anexos/Robot_2.jpg" alt="Robot_2" width="400">
 
-Este robot no se programó, o intentó mover, ya que el objetivo de la visita fue programar el robot NAO V6
 
-## Especificaciones Técnicas
+Este robot no se programó o intentó mover, ya que el objetivo de la visita fue programar el robot NAO V6.
+
+## Especificaciones Técnicas Robot NAO V6
 - Altura: 58 cm
 - Peso: 5.6 kg
 - Grado de Libertad: 25
 - Sensores: Cámara RGB, sensores de presión, giroscopio, acelerómetro, entre otros.
 - Conectividad: Wi-Fi, Ethernet, USB
+
+## Lenguajes de programación soportados:
+El robot NAO, puede ser programado con C++, Python, Java o MATLAB. 
+Durante la visita se usó el programa Choregraphe, para trabajar un entorno de programación gráfica. Dicho software posee un entorno de simulación para ver las rutinas de robot, ademas posee soporte para el trabajo con Scriptsde Python.
 
 ## Configuración Inicial
  Para comenzar a trabajar con el robot NAO V6, siga los siguientes pasos:
@@ -48,3 +54,20 @@ Choreographe también permite a los usuarios interactuar con los sensores y las 
 https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-NAO-V6/assets/82681128/664ecba5-35c5-4733-9e95-3bbb7235815e
 
 
+## Análisis y reflexión 
+- Pese a que se tengan muchos grados de libertad en el robot hay que tener presente que deben mantenerse limites para que este aun se mantenga en pie.
+- Usar Choreographe está perfecto para un primer acercamiento a este tipo de robots, pero se pueden notar las limitaciones de dicho software, por lo que en un futuro podria intentarse el manejo del  robot a través de ROS u otras plataformas.
+
+## Conclusión
+### Experiencia
+
+
+### Opiniones personales
+
+- Daniel: Fue una salida muy interesante tener la posibilidad de poder trabajar con robots poco accesibles a nivel nacional, se me hizo una oportunidad única y de mucho aprendizaje. Pude entender con el uso de Choreographe el funcionamiento básico de los robots NAO y quedé con varias incógnitas y con muchas ganas de querer trabajar con estos robots a traves otras plataformas,es decir ¿que tan facil es su manejo a traves de ROS? ¿Existen limitacitaciones respecto al software? ¿El robot es viable para otro tipo de tareas?
+
+- Giovanni:
+
+- Thomás: Me pareció una salida enriquecedora porque se tuvo la oportunidad de conocer un laboratorio de otra institución, era la primera vez que trabajaba con robots humanoides lo cual resultó muy interesante, adicional a ello los estudiantes de la universidad de la sabana fueron muy cordiales y en todo momento nos brindaron su acompañamiento para desarrollar la actividad de manera adecuada, teniendo precaución en la manipulación de los robots
+
+- Felipe:
