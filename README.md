@@ -79,8 +79,8 @@ Estudiar y trabajar con robots humanoides en el campo de la robótica es importa
 
 
 - **¿Qué características distintivas tienen los robots NAO que los hacen útiles para laenseñanza y la investigación?**
- <br>
-Los robots NAO tienen varias características distintivas que los hacen especialmente útiles para la enseñanza y la investigación. Primero, su diseño modular y sus capacidades de movimiento avanzadas permiten a los estudiantes y a los investigadores experimentar con una amplia gama de tareas y escenarios. Además, NAO es altamente programable y puede ser controlado mediante varios lenguajes de programación, incluyendo Python y C++, lo que lo hace accesible para personas con diferentes niveles de experiencia en programación. Su software Choregraphe proporciona una interfaz intuitiva para crear y probar comportamientos del robot, facilitando el aprendizaje práctico. Finalmente, NAO está equipado con sensores avanzados, cámaras y micrófonos, permitiendo estudios y proyectos en áreas como la visión por computadora, la inteligencia artificial y la interacción hombre-robot.
+  <br>
+  Los robots NAO tienen varias características distintivas que los hacen especialmente útiles para la enseñanza y la investigación. Primero, su diseño modular y sus capacidades de movimiento avanzadas permiten a los estudiantes y a los investigadores experimentar con una amplia gama de tareas y escenarios. Además, NAO es altamente programable y puede ser controlado mediante varios lenguajes de programación, incluyendo Python y C++, lo que lo hace accesible para personas con diferentes niveles de experiencia en programación. Su software Choregraphe proporciona una interfaz intuitiva para crear y probar comportamientos del robot, facilitando el aprendizaje práctico. Finalmente, NAO está equipado con sensores avanzados, cámaras y micrófonos, permitiendo estudios y proyectos en áreas como la visión por computadora, la inteligencia artificial y la interacción hombre-robot.
 
 
 ### Referencias:
